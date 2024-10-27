@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Box, Typography, Container, Grid, Paper, Button } from '@mui/material'
+import { Box, Typography, Container, Grid, Paper } from '@mui/material'
 import { styled } from '@mui/system'
 
 const StyledSection = styled(Box)({

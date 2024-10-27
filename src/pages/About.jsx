@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Typography, Grid, Avatar } from '@mui/material';
 import { styled } from '@mui/system';
-import { YouTube, Twitter, LinkedIn, GitHub } from '@mui/icons-material';
+import { LinkedIn, GitHub } from '@mui/icons-material';
 import amitavdp from '../asset/amitavdp.jpeg'
 import { Facebook, Instagram } from '@mui/icons-material';
 
